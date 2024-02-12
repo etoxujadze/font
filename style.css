@@ -1,20 +1,20 @@
 @font-face {
     font-family: "chemi fonti";
-    src: url(../fonts/OldStandardTT-Bold.ttf);
+    src: url(/OldStandardTT-Bold.ttf);
 }
 .nik {
     font-family: "chemi fonti";
 }
 @font-face {
     font-family: "fonti";
-    src:  url(../fonts/OldStandardTT-Italic.ttf);
+    src:  url(/OldStandardTT-Italic.ttf);
 }
 p {
     font-family: "fonti";
 }
 @font-face {
     font-family: "facefont";
-    src: url(../fonts/OldStandardTT-Regular.ttf);
+    src: url(/OldStandardTT-Regular.ttf);
 }
 .name {
     font-family: "facefont";
