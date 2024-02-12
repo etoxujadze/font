@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "chemi fonti";
+    src: url(../fonts/OldStandardTT-Bold.ttf);
+}
+.nik {
+    font-family: "chemi fonti";
+}
+@font-face {
+    font-family: "fonti";
+    src:  url(../fonts/OldStandardTT-Italic.ttf);
+}
+p {
+    font-family: "fonti";
+}
+@font-face {
+    font-family: "facefont";
+    src: url(../fonts/OldStandardTT-Regular.ttf);
+}
+.name {
+    font-family: "facefont";
+    text-align: justify;
+}
